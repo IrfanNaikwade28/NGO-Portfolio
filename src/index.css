@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #fdf3f6;
+}
+.color-gradient {
+  background: linear-gradient(90deg, #e3265a 0%, #e66c5c 100%, #ebcd5f 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  display: inline-block;
+}
+.hero-font-gradient{
+  background:linear-gradient(90deg,#E3265A 0%,#EBCD5F 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  display: inline-block;
+}
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.headline{
+  font-family: "Jaini Purva", system-ui;
+  font-weight: 600;
+  font-style: normal;
+}
+.circle-shadow{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.10);
+}
