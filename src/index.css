@@ -37,3 +37,12 @@ body {
 .subText{
   font-weight:400!important;
 }
+.amita-bold {
+  font-family: 'amita-bold', sans-serif;
+}
+@font-face {
+  font-family: 'amita-bold';
+  src: url('./assets/fonts/Amita-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
