@@ -8,11 +8,11 @@ export const OurMission = () => {
   return (
     <>
       <div className="flex flex-col items-center my-40 w-full">
-        <div className="font-bold uppercase text-3xl">Our Mission</div>
-        <div className="subText w-1/2 text-center font-tiro font-medium text-base mt-5">
-        सोलापूर जिल्ह्यातील करमाळा तालुक्यात तीन हजार लोकसंख्या असणारे नागांचा संभाळ करणारे विविध परंपरा त्याचे जतन संवर्धन करत सन वेगवेगळे सण उत्सव उत्साहात साजरा करणार आधुनिक पद्धतीने शेती करून आर्थिक उन्नती साधणाऱ्या या गावाविषयी
+        <div className="font-bold uppercase text-3xl">आमचे वेगळेपण</div>
+        <div className="subText w-1/2 max-md:w-full max-md:px-5 text-center font-tiro font-medium text-base max-md:text-sm mt-5">
+        सोलापूर जिल्ह्यातील करमाळा तालुक्यात तीन हजार लोकसंख्या असणारे नागांचा संभाळ करणारे विविध परंपरा त्याचे जतन संवर्धन करत सन वेगवेगळे सण उत्सव उत्साहात साजरा करणार आधुनिक पद्धतीने शेती करून आर्थिक उन्नती साधणाऱ्या या गावाविषयी.
         </div>
-        <div className="button bg-[#E3265A] rounded-full w-[20vw] h-10 py-2 flex items-center justify-center gap-x-1 text-white font-outfit uppercase font-bold tracking-widest mt-10">
+        <div className="button bg-[#E3265A] rounded-full w-[20vw] max-md:w-[10rem] h-10 py-2 flex items-center justify-center gap-x-1 text-white font-outfit uppercase font-bold tracking-widest mt-10 hover:scale-105 cursor-pointer hover:bg-[#E3265A]/80 select-none">
           Let&apos;s See
         </div>
         <div className="flex flex-col w-full items-center gap-y-40 mt-20">
