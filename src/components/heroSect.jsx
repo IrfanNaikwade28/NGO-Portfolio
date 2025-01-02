@@ -1,6 +1,6 @@
 import arrowRight from "../assets/icons/right-arrow.png";
-import map from "../assets/map.png";
-import startBG from "../assets/icons/StarBG.png";
+import map from "../assets/image/map.png";
+import star from "../assets/icons/star.png";
 export const HeroSect = () => {
   return (
     <>
@@ -8,7 +8,7 @@ export const HeroSect = () => {
         <div className="hero-text w-1/2 max-md:w-full relative">
             <img
               className="absolute -z-10 size-[39vw] left-5 -top-20 max-md:top-0"
-              src={startBG}
+              src={star}
               alt=""
             />
           <div className="circle size-[45vw] max-md:size-[21rem] circle-shadow rounded-full absolute -left-24 -top-40 max-md:-top-14 max-md:-left-10 -z-10 bg-[#fdf3f6]"></div>
