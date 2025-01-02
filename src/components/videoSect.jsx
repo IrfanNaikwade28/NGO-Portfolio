@@ -1,4 +1,3 @@
-// import templeImage from "../assets/image/templeImage.png";
 import hero from "../assets/video/hero.mp4";
 export const VideoSect = () => {
   return (
