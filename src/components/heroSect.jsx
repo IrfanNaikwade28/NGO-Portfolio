@@ -1,6 +1,6 @@
 import arrowRight from "../assets/icons/right-arrow.png";
 import map from "../assets/map.png";
-import startBG from "../assets/icons/starBG.png";
+import startBG from "../assets/icons/StarBG.png";
 export const HeroSect = () => {
   return (
     <>
