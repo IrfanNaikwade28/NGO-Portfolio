@@ -12,7 +12,7 @@ function App() {
       <OurMission />
       <VideoSect/>
       <ContactUs/>
-      <Footer/> 
+      <Footer/>
     </>
   );
 }

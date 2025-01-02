@@ -4,7 +4,7 @@ import startBG from "../assets/icons/starBG.png";
 export const HeroSect = () => {
   return (
     <>
-      <div className="Hero-sect flex max-md:flex-col items-center gap-5 w-full">
+      <div className="Hero-sect flex max-md:flex-col items-center gap-5 w-full max-md:mt-20">
         <div className="hero-text w-1/2 max-md:w-full relative">
             <img
               className="absolute -z-10 size-[39vw] left-5 -top-20 max-md:top-0"
